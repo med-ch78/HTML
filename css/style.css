@@ -9,6 +9,9 @@ h1{
     color: blue;
     font-size: 40px;
     text-align: center;
+    border-bottom: 2px solid blue;
+    width: 30%;
+    margin: auto;
 }
 
 h2{
